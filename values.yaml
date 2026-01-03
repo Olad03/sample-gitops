@@ -2,7 +2,7 @@ affinity: {}
 autoscaling:
   enabled: false
   maxReplicas: 100
-  minReplicas: 1
+  minReplicas: 2
   targetCPUUtilizationPercentage: 80
 fullnameOverride: ''
 image:
